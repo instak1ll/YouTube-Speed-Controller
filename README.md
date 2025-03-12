@@ -2,7 +2,7 @@
 
 A Chrome extension for precise YouTube playback speed control with keyboard shortcuts.
 
-![Demo]()
+![Demo](https://www.youtube.com/watch?v=ZqoD5N2BMDM)
 
 ## Features ✨
 
@@ -19,7 +19,7 @@ A Chrome extension for precise YouTube playback speed control with keyboard shor
 
 ### From Chrome Web Store
 
-1. Visit [Extension Link]()
+1. Visit [Extension Link](in revision)
 2. Click "Add to Chrome"
 3. Confirm installation
 
@@ -31,7 +31,7 @@ A Chrome extension for precise YouTube playback speed control with keyboard shor
 git clone https://github.com/instak1ll/youtube-speed-control.git
 ```
 
-2.  Open Chrome and navigate to `chrome://extensions/`
+2.  Open Chrome and navigate to `chrome://extensions/in revision`
 3.  Enable "Developer mode"
 4.  Click "Load unpacked extension"
 5.  Select the project folder
