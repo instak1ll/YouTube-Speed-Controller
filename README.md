@@ -2,7 +2,9 @@
 
 A Chrome extension for precise YouTube playback speed control with keyboard shortcuts.
 
-![Demo](https://www.youtube.com/watch?v=ZqoD5N2BMDM)
+## 🎥 Video Demo
+
+[![YouTube Demo](https://img.youtube.com/vi/ZqoD5N2BMDM/0.jpg)](https://www.youtube.com/watch?v=ZqoD5N2BMDM "Ver demo en YouTube")
 
 ## Features ✨
 
